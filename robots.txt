@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gleeorthodontics.com/sitemap.xml
